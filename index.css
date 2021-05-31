@@ -1,0 +1,27 @@
+
+.trend{
+    padding:1px;
+    padding-left:40px;
+    text-align: right;
+    margin-right: 0%;
+    margin-left: 1%;
+}
+ul li{
+    display :inline;
+    padding-left: 50px;
+    font-size: 100%;
+}
+.image{
+    float: left;
+    display: grid;
+}
+.products{
+    padding: 10px;
+}
+body{
+    background-color: peru;
+}
+.intro{
+    text-align: center;
+
+}
