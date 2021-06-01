@@ -14,9 +14,10 @@ ul li{
 .image{
     float: left;
     display: grid;
+    padding: 30px;
 }
 .products{
-    padding: 10px;
+    padding: 30px;
 }
 body{
     background-color: peru;
