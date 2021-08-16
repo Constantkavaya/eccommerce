@@ -29,3 +29,147 @@ body{
 .consuela{
     text-align: center;
 }
+
+
+
+.card {
+    box-shadow: 0 4px 8px 0 black;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+   display: table-row-group;
+    padding: 1%;
+    
+  }
+
+ 
+  .cardcenter {
+    box-shadow: 0 2px 4px 0 black;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    float: left;
+    padding: 1%;
+    
+    
+  
+  }
+
+
+  .cardright {
+    box-shadow: 0 4px 8px 0 black;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 1%;
+  
+  
+  
+  }
+
+  .cardrightcenter {
+    box-shadow: 0 4px 8px 0 black;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    float: right;
+    padding: 1%;
+    margin-top: -43.4%;
+   
+  
+  }
+
+
+  .cardleftcenter {
+    box-shadow: 0 4px 8px 0 black;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    float: left;
+    padding: 1%;
+    margin-top: 5%;
+  }
+  .cardlc{
+    box-shadow: 0 4px 8px 0 black;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    /* float: left; */
+    padding: 1%;
+    margin-top: 5%;
+
+  }
+  .cardlcc{
+    box-shadow: 0 4px 8px 0 black;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    float: right;
+    padding: 1%;
+    margin-top: -43.5%;
+
+  }
+  .card4{
+    box-shadow: 0 4px 8px 0 black;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    float: right;
+    padding: 1%;
+    margin-top: 6%;
+
+  }
+
+  .cardleftc{
+    box-shadow: 0 4px 8px 0 black;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 1%;
+    margin-top: 6%;
+
+  }
+  .cardclm{
+    box-shadow: 0 4px 8px 0 black;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    float: left;
+    padding: 1%;
+    margin-top: -43%;
+
+  }
+
+  .price {
+    color:white;
+    font-size: 22px;
+  }
+  
+  .card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 20px;
+  }
+  
+  .card button:hover {
+    opacity: 1.0;
+  }
+  .sln{
+    text-align: center;
+  }
